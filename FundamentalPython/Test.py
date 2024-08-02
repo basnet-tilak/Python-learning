@@ -11,4 +11,3 @@ def myFunc():
     
 myFunc()
 print("Global variable ouside the methods", x)
-
