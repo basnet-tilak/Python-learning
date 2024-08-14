@@ -4,5 +4,4 @@
     product = 4 * 2     # Multiplication
     quotient = 8 / 2    # Division
     exponent = 2 ** 3   # Exponentiation
-
 '''
